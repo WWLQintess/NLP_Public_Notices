@@ -1,0 +1,37 @@
+public-notes-service@total-furnace-369517.iam.gserviceaccount.com
+
+IR@c79459be-7698-4565-88be-a25ec2878fde@dwqintess-df-dev@ServiceEndpoint=dwqintess-df-dev.eastus2.datafactory.azure.net@pMB0qp0H7iAm+kDmmyWCCj+rcylhSo7iiKKhgFo/Swg=
+
+Error Code: 4001
+Error: A problem occurred while registering the Integration Runtime (Self-hosted) node.
+Suggestion: Please close this window and manually launch "Microsoft Integration Runtime" from the start menu.
+
+BRNQINA6AFE403B
+
+AIzaSyBMRszEqMQD-hxm6iF11lG53Rz7wxEMVQI Chave API
+
+AIzaSyDDM-BIxjevPhjd2seRUH53t0CTvIkTR74 Key da Qintess
+
+
+databricks-bigquery@chromatic-tree-372319.iam.gserviceaccount.com
+
+
+Seu ID de cliente
+861947632476-tp0lcfq2gvgu23in0s6mked02gjglgbq.apps.googleusercontent.com 22/12/2022
+
+Sua chave secreta de cliente
+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
+
+qads-conta-servico@aerobic-ward-372414.iam.gserviceaccount.com
+
+Chave de API
+AIzaSyCpJZ9wliVRwoc-PfxvoURxLQ1RLJ8Rp_k
+
+azuredatafactoryintegration2@aerobic-ward-372414.iam.gserviceaccount.com
+
+aerobic-ward-372414-f113b21ecbcd.p12
+
+
+key da VM
+
+IR@050167a1-dd14-4a15-8a20-246ce9704a45@dwqintess-df-dev@ServiceEndpoint=dwqintess-df-dev.eastus2.datafactory.azure.net@jf8OJSA8k9CTVGl8FI1m++I2Tm42shsg4AUpCs9R9+4=
